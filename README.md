@@ -11,7 +11,7 @@ Transitioning into Data Engineering with a focus on data pipelines, ETL workflow
 
 ### 📊 GitHub Analytics & Top Languages
 <p align="left">
-  <img src="https://readme-stats.navendu.me/api?username=TarasTTN&show_icons=true&theme=radical&hide_border=true&count_private=true&v=3" alt="Taras GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TarasTTN&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" alt="Taras GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarasTTN&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
 </p>
 
